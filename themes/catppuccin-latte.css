@@ -115,9 +115,9 @@ html {
   --editor-command-button-border-color: var(--surface1);
   --editor-line-meta-color: var(--meta-subtle-color);
   --editor-meta-color: var(--meta-color);
-  --editor-table-head-background-color: rgba(49, 50, 68, 0.4);
+  --editor-table-head-background-color: var(--mantle);
   --editor-table-head-color: var(--text);
-  --editor-table-even-background-color: rgba(49, 50, 68, 0.3);
+  --editor-table-even-background-color: var(--surface0);
   --editor-blockquote-background-color: var(--subtle-background-color);
   --editor-blockquote-color: var(--subtle-color);
   --editor-blockquote-border-color: var(--surface1);
